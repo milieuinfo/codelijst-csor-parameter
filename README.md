@@ -27,6 +27,9 @@ Pad: `src/main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/csor/param
 
 Elke parameter is een `skos:Concept` binnen het conceptschema `https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/parameter` en heeft volgende eigenschappen:
 
+Named graph (Virtuoso): `https://data.omgeving.vlaanderen.be/id/graph/codelijst-csor-parameter`
+
+
 | Eigenschap | Beschrijving |
 |---|---|
 | `skos:prefLabel` | Voorkeurslabel (nl) |
