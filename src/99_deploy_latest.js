@@ -8,7 +8,7 @@ import fetch, { fileFromSync } from 'node-fetch';
 
 const { artifactId, groupId } = metadataOptions;
 const graph = 'https://' + groupId.split('.id')[0].split('.').reverse().join('.') + '/id/graph/' + artifactId;
-const omgeving = 'pr';
+const omgeving = 'oe';
 
 set_env(omgeving);
 
