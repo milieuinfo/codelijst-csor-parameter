@@ -1,0 +1,3523 @@
+PREFIX :               <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/parameter>
+PREFIX annotation:     <https://data.omgeving.vlaanderen.be/id/annotation/csor/>
+PREFIX csor:           <https://data.omgeving.vlaanderen.be/id/concept/csor/>
+PREFIX parameter:      <https://data.omgeving.vlaanderen.be/id/concept/csor/parameter/>
+PREFIX dc:             <http://purl.org/dc/elements/1.1/>
+PREFIX oa:             <http://www.w3.org/ns/oa#>
+PREFIX skos:           <http://www.w3.org/2004/02/skos/core#>
+
+
+
+csor:rie-iepr-parameter-afvalwater a skos:Concept ;
+    skos:prefLabel  "RIE-IEPR parameters voor afvalwater" .
+
+csor:rie-iepr-parameter-lucht a skos:Concept ;
+    skos:prefLabel  "RIE-IEPR parameters voor lucht" .
+
+annotation:rie-iepr-parameter-P_728 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_728;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_729 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_729;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_730 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_730;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_727 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_727;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_731 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_731;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1242 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1242;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_758 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_758;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_330 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_330;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_760 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_760;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_761 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_761;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_763 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_763;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1077 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1077;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_333 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_333;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_770 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_770;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_772 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_772;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_774 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_774;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1026 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1026;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_777 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_777;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_778 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_778;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_779 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_779;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_334 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_334;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_781 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_781;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_783 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_783;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_691 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_691;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_690 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_690;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_693 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_693;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_628 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_628;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_630 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_630;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_958 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_958;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_706 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_706;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_708 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_708;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_710 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_710;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_712 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_712;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_716 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_716;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_717 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_717;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_725 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_725;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1173 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1173;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_514 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_514;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_520 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_520;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_755 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_755;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_568 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_568;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_574 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_574;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_577 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_577;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_580 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_580;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_623 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_623;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_626 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_626;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1172 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1172;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_700 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_700;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_704 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_704;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_513 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_513;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_960 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_960;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_160 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_160;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_116 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_116;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_625 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_625;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1170 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1170;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_638 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_638;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_889 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_889;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1005 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1005;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_997 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_997;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_996 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_996;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1133 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1133;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_523 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_523;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_481 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_481;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_548 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_548;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1072 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1072;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_401 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_401;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1161 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1161;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_516 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_516;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1361 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1361;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1181 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1181;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_892 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_892;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_603 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_603;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_409 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_409;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1368 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1368;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_589 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_589;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_817 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_817;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_819 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_819;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_421 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_421;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_893 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_893;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_896 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_896;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_898 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_898;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_900 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_900;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_902 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_902;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_962 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_962;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1249 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1249;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_413 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_413;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1307 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1307;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1323 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1323;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1326 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1326;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1332 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1332;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1336 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1336;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1339 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1339;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1342 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1342;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_417 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_417;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_525 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_525;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1099 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1099;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_494 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_494;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_550 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_550;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_355 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_355;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_288 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_288;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_917 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_917;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_607 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_607;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_790 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_790;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_424 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_424;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_519 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_519;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1370 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1370;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1597 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1597;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1094 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1094;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_789 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_789;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_904 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_904;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1276 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1276;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_295 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_295;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_313 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_313;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_965 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_965;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_966 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_966;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1182 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1182;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1090 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1090;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_430 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_430;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_432 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_432;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1283 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1283;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_968 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_968;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1184 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1184;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_970 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_970;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_608 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_608;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1225 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1225;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_906 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_906;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1277 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1277;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1275 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1275;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1050 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1050;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1278 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1278;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_797 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_797;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_813 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_813;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1282 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1282;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_290 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_290;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_7 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_7;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1285 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1285;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_978 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_978;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_980 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_980;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_552 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_552;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_12 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_12;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_521 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_521;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_595 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_595;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_822 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_822;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_979 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_979;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_824 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_824;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1063 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1063;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_529 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_529;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_611 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_611;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1053 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1053;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_496 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_496;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_697 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_697;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_296 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_296;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1240 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1240;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1194 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1194;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_826 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_826;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_982 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_982;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1196 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1196;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_910 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_910;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1051 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1051;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1044 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1044;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_695 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_695;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_828 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_828;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_556 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_556;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1180 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1180;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1602 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1602;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1372 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1372;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_546 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_546;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_542 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_542;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1176 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1176;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1598 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1598;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_287 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_287;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_441 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_441;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_533 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_533;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1359 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1359;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_653 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_653;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_911 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_911;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_596 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_596;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_506 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_506;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_558 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_558;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1226 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1226;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_606 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_606;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_597 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_597;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_500 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_500;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_829 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_829;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_560 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_560;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_561 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_561;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_831 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_831;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_815 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_815;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1371 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1371;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_600 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_600;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1186 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1186;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1188 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1188;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1268 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1268;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_271 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_271;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_269 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_269;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_914 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_914;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_308 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_308;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_392 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_392;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_454 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_454;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_299 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_299;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_297 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_297;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1308 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1308;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1374 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1374;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1480 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1480;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_16 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_16;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_274 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_274;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2158 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2158;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_835 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_835;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_986 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_986;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_833 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_833;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_282 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_282;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1284 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1284;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_837 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_837;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1375 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1375;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1479 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1479;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_17 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_17;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1228 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1228;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_92 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_92;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_276 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_276;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1104 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1104;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_989 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_989;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_446 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_446;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_944 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_944;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1279 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1279;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1168 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1168;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1373 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1373;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_571 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_571;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1204 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1204;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_992 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_992;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_621 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_621;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_515 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_515;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_915 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_915;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1043 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1043;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_306 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_306;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_406 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_406;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_458 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_458;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1234 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1234;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_469 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_469;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1031 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1031;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_307 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_307;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_304 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_304;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_507 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_507;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_977 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_977;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1200 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1200;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1012 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1012;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1217 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1217;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_883 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_883;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1013 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1013;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_280 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_280;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1280 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1280;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_806 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_806;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_808 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_808;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_842 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_842;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_810 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_810;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1009 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1009;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_887 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_887;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1223 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1223;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_884 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_884;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_885 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_885;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_886 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_886;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_473 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_473;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_465 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_465;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_619 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_619;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_509 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_509;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1011 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1011;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_588 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_588;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1231 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1231;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_839 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_839;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_881 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_881;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_800 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_800;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_802 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_802;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1017 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1017;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_477 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_477;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_870 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_870;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_1281 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_1281;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_485 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_485;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_386 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-afvalwater;
+    dc:source : ;
+    skos:prefLabel  "Parameter afvalwater RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_386;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2403 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2403;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2404 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2404;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2407 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2407;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2424 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2424;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2426 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2426;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2427 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2427;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2428 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2428;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2429 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2429;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2430 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2430;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2431 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2431;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2437 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2437;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2438 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2438;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2439 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2439;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2440 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2440;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2448 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2448;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2377 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2377;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2378 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2378;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2398 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2398;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2399 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2399;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2402 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2402;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2420 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2420;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2374 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2374;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2376 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2376;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2395 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2395;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2397 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2397;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2400 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2400;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2375 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2375;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2479 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2479;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2482 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2482;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2483 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2483;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2484 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2484;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2486 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2486;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2487 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2487;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2490 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2490;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2491 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2491;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3125 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3125;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2495 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2495;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2474 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2474;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2496 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2496;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2503 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2503;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2510 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2510;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2511 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2511;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2515 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2515;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2520 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2520;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2525 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2525;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2529 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2529;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2533 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2533;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2536 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2536;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3127 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3127;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2554 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2554;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2540 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2540;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2541 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2541;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2558 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2558;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2559 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2559;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2560 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2560;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2561 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2561;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2563 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2563;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2564 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2564;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2565 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2565;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2574 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2574;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2583 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2583;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2584 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2584;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2567 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2567;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2585 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2585;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2592 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2592;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2593 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2593;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2568 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2568;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2569 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2569;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2594 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2594;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2598 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2598;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2599 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2599;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2600 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2600;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2606 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2606;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2570 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2570;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2607 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2607;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2571 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2571;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2572 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2572;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2612 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2612;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2573 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2573;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2621 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2621;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3134 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3134;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3135 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3135;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3138 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3138;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2630 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2630;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2632 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2632;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2633 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2633;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2634 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2634;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2641 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2641;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2642 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2642;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2644 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2644;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2635 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2635;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2645 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2645;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2650 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2650;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2654 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2654;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2668 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2668;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2669 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2669;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2670 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2670;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2671 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2671;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2672 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2672;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2673 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2673;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2674 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2674;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2675 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2675;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2676 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2676;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2680 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2680;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2682 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2682;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2688 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2688;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2691 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2691;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2695 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2695;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2698 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2698;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2699 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2699;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2700 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2700;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2701 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2701;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2702 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2702;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3145 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3145;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2707 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2707;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2724 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2724;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2708 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2708;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2709 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2709;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2711 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2711;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2718 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2718;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2713 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2713;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2714 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2714;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2715 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2715;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2725 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2725;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2719 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2719;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2727 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2727;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2732 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2732;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3148 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3148;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3150 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3150;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2734 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2734;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3151 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3151;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3152 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3152;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2740 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2740;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2755 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2755;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2774 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2774;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2775 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2775;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3155 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3155;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2776 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2776;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2754 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2754;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2782 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2782;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2783 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2783;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2790 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2790;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2798 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2798;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2799 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2799;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2797 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2797;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2805 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2805;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2835 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2835;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2841 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2841;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2842 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2842;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3159 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3159;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3160 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3160;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3161 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3161;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3167 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3167;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3168 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3168;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3169 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3169;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3170 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3170;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2817 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2817;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3162 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3162;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3163 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3163;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2846 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2846;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2853 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2853;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2823 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2823;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3164 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3164;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3165 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3165;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2854 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2854;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2834 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2834;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3166 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3166;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2856 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2856;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2859 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2859;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2863 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2863;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3171 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3171;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3177 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3177;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2864 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2864;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2865 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2865;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2869 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2869;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2868 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2868;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3021 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3021;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2896 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2896;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2897 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2897;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2899 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2899;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2900 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2900;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3028 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3028;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3178 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3178;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_2955 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_2955;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3016 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3016;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3017 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3017;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3019 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3019;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3018 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3018;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3030 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3030;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3031 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3031;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3032 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3032;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3034 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3034;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3035 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3035;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3036 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3036;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3040 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3040;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3042 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3042;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3053 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3053;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3057 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3057;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3044 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3044;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3059 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3059;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3062 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3062;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3045 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3045;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3052 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3052;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3063 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3063;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3068 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3068;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3071 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3071;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3072 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3072;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3073 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3073;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3074 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3074;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3075 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3075;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3085 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3085;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3089 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3089;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3090 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3090;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3096 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3096;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3097 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3097;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3098 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3098;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3099 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3099;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3102 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3102;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3103 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3103;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3110 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3110;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3108 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3108;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3113 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3113;
+    oa:motivatedBy  oa:classifying .
+
+annotation:rie-iepr-parameter-P_3114 a oa:Annotation;
+    oa:hasBody  csor:rie-iepr-parameter-lucht;
+    dc:source : ;
+    skos:prefLabel  "Parameter lucht RIE IEPR"@nl;
+    oa:hasTarget  parameter:P_3114;
+    oa:motivatedBy  oa:classifying .
+
